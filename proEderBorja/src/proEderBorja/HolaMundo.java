@@ -7,7 +7,7 @@ public class HolaMundo {
 
 		
 		System.out.println("Hola Mundo!!!");
-		
+		System.out.print("Hola otra vez ");
 	}
 
 }
