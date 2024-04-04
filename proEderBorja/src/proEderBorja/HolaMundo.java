@@ -2,6 +2,10 @@ package proEderBorja;
 
 public class HolaMundo {
 
+	private int restar (int a, int b ) {
+		return a - b;
+	}
+	
 	public static void main(String[] args) {
 
 		
