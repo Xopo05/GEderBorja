@@ -2,6 +2,13 @@ package proEderBorja;
 
 public class HolaMundo {
 	
+
+	private int restar (int a, int b ) {
+		return a - b;
+	}
+	
+	
+
 	private int sumar (int a, int b ) {
 		return a + b;
 	}
